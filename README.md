@@ -29,15 +29,16 @@ If startup is successful, the log will contain:
 
 The following archived content is available in this collection:
 
+
 Basic Samples:
 
-* ** http://localhost:9080/pywb/http://example.com/ **
+* [http://localhost:9080/pywb/http://example.com/](http://localhost:9080/pywb/http://iana.org/)
 
-* ** http://localhost:9080/pywb/http://iana.org/ **
+* [http://localhost:9080/pywb/http://iana.org/](http://localhost:9080/pywb/http://iana.org/)
 
 Social Media:
 
-* ** http://localhost:9080/pywb/https://www.facebook.com/digitalpreservation **
+* [http://localhost:9080/pywb/https://www.facebook.com/digitalpreservation](http://localhost:9080/pywb/https://www.facebook.com/digitalpreservation)
 
-* ** http://localhost:9080/pywb/https://twitter.com/netpreserve **
+* [http://localhost:9080/pywb/https://twitter.com/netpreserve](http://localhost:9080/pywb/https://www.facebook.com/digitalpreservation)
 
