@@ -1,0 +1,2 @@
+git+git://github.com/ikreymer/pywb.git@master
+uwsgi>=1.9

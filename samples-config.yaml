@@ -1,0 +1,5 @@
+collections:
+    pywb: ./samples/cdx/
+
+archive_paths: ./samples/warcs/
+
