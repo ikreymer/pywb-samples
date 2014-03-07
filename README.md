@@ -41,3 +41,10 @@ Social Media:
 
 * [http://localhost:9080/pywb/https://twitter.com/netpreserve](http://localhost:9080/pywb/https://www.twitter.com/netpreserve)
 
+* [http://localhost:9080/pywb/http://www.flickr.com/photos/library_of_congress/sets/72157632529103585/](http://localhost:9080/pywb/http://www.flickr.com/photos/library_of_congress/sets/72157632529103585/)
+
+
+### Capture Info
+
+All samples were captured manually using browser based crawling, mostly via [warcprox](https://github.com/internetarchive/warcprox/)
+

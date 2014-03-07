@@ -4,3 +4,5 @@ collections:
 archive_paths: ./samples/warcs/
 
 home_html: ./index.html
+
+enable_cdx_api: True
