@@ -2,6 +2,27 @@
 <head>
 <title>pywb Sample Content</title>
 </head>
+<style>
+<style type="text/css">
+    body {
+        background-color: #f0f0f2;
+        margin: 0;
+        padding: 0;
+        font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        
+    }
+    div {
+        width: 600px;
+        margin: 5em auto;
+        padding: 50px;
+        background-color: #fff;
+        border-radius: 1em;
+    }
+    a:link, a:visited {
+        color: #38488f;
+        text-decoration: none;
+    }
+</style>
 <body>
 <h2 id="samples">Pywb Archived Content Samples</h2>
 <p>The following archived content is available in this collection:</p>
@@ -22,9 +43,22 @@
 <li>
 <p><a href="/pywb/https://www.twitter.com/netpreserve">/pywb/https://twitter.com/netpreserve</a></p>
 </li>
+</ul>
+<p>Experimental:</p>
+<ul>
 <li>
 <p><a href="/pywb/http://www.flickr.com/photos/library_of_congress/sets/72157632529103585/">/pywb/http://www.flickr.com/photos/library_of_congress/sets/72157632529103585/</a>
 </li>
 </ul>
+<!--
+<h3>Proxy Mode</h3>
+<p> The following urls only work in proxy mode thus far. To test, set your browser's PAC configuration script to <b><i>http://{{ env | request_hostname }}/proxy.pac</b>
+</p>
+<ul>
+<li>
+<a href="http://www.flickr.com/photos/library_of_congress/sets/72157612249760312/">http://www.flickr.com/photos/library_of_congress/sets/72157612249760312/</a></li>
+</li>
+</ul>
+-->
 </body>
 </html>

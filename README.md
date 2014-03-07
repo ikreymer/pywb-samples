@@ -16,11 +16,11 @@ The files are a bit larger (~30M) and are not included in the core pywb distribu
 
 3. Install reqs (this includes pywb and uWSGI) ```pip install -r requirements.txt```
 
-4. Run! ```run-samples.sh```
+4. Run ```uwsgi uwsgi.ini```
 
 
-For best results, this run script starts up uWSGI with 10 workers on port 9080.
-Feel free to adjust as needed in the [run-samples.sh](run-samples.sh) script
+For best results, uWSGI is started 10 workers on port 9080.
+Feel free to adjust the settings as needed in [uwsgi.ini](uwsgi.ini)
 If startup is successful, the log will contain:
 
 ```... [INFO]: *** pywb app inited with config from "create_wb_router"```
@@ -41,7 +41,26 @@ Social Media:
 
 * [http://localhost:9080/pywb/https://twitter.com/netpreserve](http://localhost:9080/pywb/https://www.twitter.com/netpreserve)
 
+
+Very Experimental (Work in Progress):
+
 * [http://localhost:9080/pywb/http://www.flickr.com/photos/library_of_congress/sets/72157632529103585/](http://localhost:9080/pywb/http://www.flickr.com/photos/library_of_congress/sets/72157632529103585/)
+
+
+#### Proxy Mode Viewing
+
+The following flickr example(s) work only in proxy mode at this time.
+
+To use, set your browser (easiest in Firefox) *Automatic Proxy configuration URL* to:
+
+http://localhost:9080/proxy.pac
+
+
+Include example:
+
+* http://www.flickr.com/photos/library_of_congress/sets/72157612249760312/
+
+* http://www.flickr.com/photos/library_of_congress/sets/72157632529103585/
 
 
 ### Capture Info

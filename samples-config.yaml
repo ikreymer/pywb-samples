@@ -6,3 +6,7 @@ archive_paths: ./samples/warcs/
 home_html: ./index.html
 
 enable_cdx_api: True
+
+enable_http_proxy: True
+
+hostpaths: ['http://localhost:9080']
