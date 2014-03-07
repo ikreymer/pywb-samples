@@ -3,3 +3,4 @@ collections:
 
 archive_paths: ./samples/warcs/
 
+home_html: ./index.html
