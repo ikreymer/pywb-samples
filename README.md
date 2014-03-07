@@ -49,18 +49,17 @@ Very Experimental (Work in Progress):
 
 #### Proxy Mode Viewing
 
-The following flickr example(s) work only in proxy mode at this time.
+Flickr replay continues to be a challenge and these examples work best in proxy mode at this time.
 
-To use, set your browser (easiest in Firefox) *Automatic Proxy configuration URL* to:
+To try these out:
 
-http://localhost:9080/proxy.pac
+1. Set your browser settings (easiest in Firefox) *Automatic Proxy configuration URL* to: **http://localhost:9080/proxy.pac**
 
+2. Try loading:
 
-Include example:
+  * http://www.flickr.com/photos/library_of_congress/sets/72157612249760312/
 
-* http://www.flickr.com/photos/library_of_congress/sets/72157612249760312/
-
-* http://www.flickr.com/photos/library_of_congress/sets/72157632529103585/
+  * http://www.flickr.com/photos/library_of_congress/sets/72157632529103585/
 
 
 ### Capture Info
