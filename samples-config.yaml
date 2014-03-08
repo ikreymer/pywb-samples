@@ -10,3 +10,6 @@ enable_cdx_api: True
 enable_http_proxy: True
 
 hostpaths: ['http://localhost:9080']
+
+static_routes: {'static/default': 'pywb/static/'}
+

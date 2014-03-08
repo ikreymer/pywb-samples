@@ -1,2 +1,2 @@
-git+git://github.com/ikreymer/pywb.git@master
+git+git://github.com/ikreymer/pywb.git@develop
 uwsgi>=1.9
