@@ -14,3 +14,5 @@ hostpaths: ['http://localhost:9080']
 static_routes: {'static/default': 'pywb/static/'}
 
 use_lxml_parser: true
+
+framed_replay: true
