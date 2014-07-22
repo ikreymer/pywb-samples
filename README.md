@@ -1,5 +1,7 @@
 ### PyWb Samples
 
+**A live demo of this pywb sample project can be found at: http://pywb.herokuapp.com/**
+
 This repository contains a collection of sample archived content (WARC and CDX) files, for use with [pywb](https://github.com/ikreymer/pywb) wayback replay.
 
 The files are a bit larger (~30M) and are not included in the core pywb distribution.
